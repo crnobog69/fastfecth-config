@@ -1,0 +1,1 @@
+# fastfecth-config
