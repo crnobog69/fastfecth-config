@@ -12,7 +12,6 @@
 - [Инсталација](#инсталација)
 - [Ручна инсталација](#ручна-инсталација)
 - [Коришћење](#коришћење)
-- [Контакт](#контакт)
 
 ## О пројекту
 
@@ -69,7 +68,6 @@ Configuration for [FastFetch](https://github.com/LinusDierheimer/fastfetch).
 - [Installation](#installation)
 - [Manual Installation](#manual-installation)
 - [Usage](#usage)
-- [Contact](#contact)
 
 ## About the Project
 
