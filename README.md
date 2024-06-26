@@ -4,7 +4,7 @@
 
 Конфигурација за [FastFetch](https://github.com/LinusDierheimer/fastfetch).
 
-- [Читај на српском](#readme-на-српском)
+- [Read on English](#readme-on-english)
 
 ## Садржај
 
