@@ -6,18 +6,18 @@
 
 - [Read in English](#readme-in-english)
 
-## Садржај
+## 📋 Садржај
 
 - [О пројекту](#о-пројекту)
 - [Инсталација](#инсталација)
 - [Ручна инсталација](#ручна-инсталација)
 - [Коришћење](#коришћење)
 
-## О пројекту
+## 📝 О пројекту
 
 Овај пројекат садржи конфигурацију за [FastFetch](https://github.com/LinusDierheimer/fastfetch).
 
-## Инсталација
+## 💾 Инсталација
 
 1. Клонирајте репозиторијум:
     ```bash
@@ -28,7 +28,7 @@
     cp fastfetch-config/config.jsonc ~/.config/fastfetch/config.jsonc
     ```
 
-### Ручна инсталација
+### 🛠️ Ручна инсталација
 
 1. **Преузмите конфигурациони фајл:**
    - Посетите [GitHub репозиторијум](https://github.com/crnobog69/fastfetch-config).
@@ -48,7 +48,7 @@
    - Отворите терминал и покрените FastFetch.
    - Конфигурација ће се аутоматски применити.
 
-## Коришћење
+## 🚀 Коришћење
 
 Отворите терминал и покрените FastFetch. Конфигурација ће бити примењена аутоматски.
 
@@ -62,18 +62,18 @@ Configuration for [FastFetch](https://github.com/LinusDierheimer/fastfetch).
 
 - [Читај на српском](#readme-на-српском)
 
-## Contents
+## 📋 Contents
 
 - [About the Project](#about-the-project)
 - [Installation](#installation)
 - [Manual Installation](#manual-installation)
 - [Usage](#usage)
 
-## About the Project
+## 📝 About the Project
 
 This project contains configuration for [FastFetch](https://github.com/LinusDierheimer/fastfetch).
 
-## Installation
+## 💾 Installation
 
 1. Clone the repository:
     ```bash
@@ -84,7 +84,7 @@ This project contains configuration for [FastFetch](https://github.com/LinusDier
     cp fastfetch-config/config.jsonc ~/.config/fastfetch/config.jsonc
     ```
 
-### Manual Installation
+### 🛠️ Manual Installation
 
 1. **Download the configuration file:**
    - Visit the [GitHub repository](https://github.com/crnobog69/fastfetch-config).
@@ -104,7 +104,7 @@ This project contains configuration for [FastFetch](https://github.com/LinusDier
    - Open a terminal and run FastFetch.
    - The configuration will be applied automatically.
 
-## Usage
+## 🚀 Usage
 
 Open a terminal and run FastFetch. The configuration will be applied automatically.
 
